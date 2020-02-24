@@ -1,4 +1,4 @@
-package Exercicio1;
+﻿package Exercicio1;
 
 public class Molde1 {
 
@@ -13,6 +13,7 @@ public class Molde1 {
         System.out.println("e = " + e);
         d = (int)(a / c);  //Apresenta erro por é impossivel converter de double para inteiro. Corrigi acrescentando o (int) 
         System.out.println("d = " + d);
+	System.out.println("FIM");
     }
 
 }
